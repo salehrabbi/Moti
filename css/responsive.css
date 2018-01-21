@@ -1,0 +1,91 @@
+@media (max-width:768px){
+    .phone{
+        display: none;
+    }
+    .app-icon{
+        text-align: center;
+    }
+	.awesome-left,.video-right{
+	text-align:center;
+	}
+    .awesome-left img{
+    max-width: 400px;
+	}
+	.video-right img {
+	max-width: 400px;
+	}
+	.input-group-btn > .btn {
+	padding: 6px 20px;
+	}
+	h4{
+		font-size: 16px;
+	}
+}
+@media (max-width: 500px){
+	.awesome-right .icon-hover {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 35px;
+}
+.awesome-right .icon {
+    width: 64px;
+    height: 64px;
+	}
+}
+@media (max-width: 1250px){
+	.app-pic{
+		width: 13%;
+	}
+}
+@media (max-width: 915px){
+	.app-pic{
+		width: 22%;
+	}
+}
+@media (max-width: 600px){
+	.app-pic{
+		width: 28%;
+	}
+	.input-group{
+    width: 100%;
+	}
+	.awesome-top p {
+	width: 100%;
+	padding:0 15px;
+	}
+}
+@media (max-width: 450px){
+	.app-pic{
+		width: 50%;
+	}
+}
+@media (max-width: 450px){
+	#review .rewiew-content img {
+	left: 38%;
+	}
+}
+@media (max-width: 350px){
+	#review .rewiew-content img {
+	left: 32%;
+	}
+}
+@media (max-width: 640px){
+	.awesome-left img{
+    max-width: 250px;
+	}
+	#review .rewiew-content img{
+		left: 43%;
+
+	}
+}
+@media (max-width: 480px){
+	#review .rewiew-content img{
+		left:40%;
+	}
+}
+@media (max-width: 320px){
+	#review .rewiew-content img{
+		left:30%;
+	}
+}

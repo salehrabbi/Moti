@@ -1,0 +1,11 @@
+.fa.fa-android
+.fa.fa-apple
+.fa.fa-windows
+.fa.fa-diamond
+.fa.fa-hourglass-o
+.fa.fa-magic
+.fa.fa-bolt
+.fa.fa-arrows-alt
+.fa.fa-angle-left
+.fa.fa-angle-right
+
